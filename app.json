@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "jobsift",
+    "slug": "simple-jobs",
+    "extra": {
+      "eas": {
+        "projectId": "35f1f061-0282-4962-8c75-0a00a4343da7"
+      }
+    },
+    "owner": "suganth_a",
+    "android": {
+      "package": "com.suganth_a.simplejobs"
+    }
+  }
+}
